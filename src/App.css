@@ -1,0 +1,23 @@
+.content {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.row {
+  text-align: center;
+}
+
+.row th,
+.row td {
+  border: 0.5px solid gray;
+  padding: 5px;
+}
+
+img {
+  height: 15px;
+}
+
+img:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
